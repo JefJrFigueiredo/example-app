@@ -45,7 +45,7 @@ php artisan key:generate
 Run [http://localhost](http://localhost) in browser to see Laravel welcome page.
 
 To connect a database client (like [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) for example) with the database server container, use the following parameters on the database client:
-- Host: localhost
+- Host: localhost (or 127.0.0.1)
 - Port: 3306
 - User: sail
 - Password: password
