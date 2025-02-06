@@ -1,4 +1,4 @@
-# Example project using Laravel 10, MySQL 8 and Docker
+# Example project using PHP 8.2, Laravel 10, MySQL 8 and Docker
 
 ## Requirements
 - [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
